@@ -25,3 +25,5 @@ www.nexusmods.com##.areplacer
 www.nexusmods.com##.donation-panel
 
 www.gamesradar.com##.jw-reset.jw-video
+
+mail.google.com##.X3
