@@ -27,3 +27,8 @@ www.nexusmods.com##.donation-panel
 www.gamesradar.com##.jw-reset.jw-video
 
 mail.google.com##.X3
+
+youtube.com###endpoint:has-text(Originals)
+youtube.com###endpoint:has-text(YouTube Music)
+youtube.com###endpoint:has-text(Explore)
+www.youtube.com##ytd-guide-section-renderer.ytd-guide-renderer.style-scope:nth-of-type(3)
