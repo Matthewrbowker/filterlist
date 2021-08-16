@@ -35,3 +35,7 @@ www.youtube.com##ytd-guide-section-renderer.ytd-guide-renderer.style-scope:nth-o
 www.youtube.com##ytd-rich-section-renderer.ytd-rich-grid-renderer.style-scope
 
 amazon.com##.a-carousel
+
+www.twitch.tv##.front-page-carousel
+www.twitch.tv##.find-me
+twitch.tv##+js(twitch-videoad)
