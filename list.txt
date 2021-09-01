@@ -7,11 +7,19 @@ www.reddit.com##.scrollerItem:has-text(Top broadcast right now)
 www.reddit.com##.scrollerItem:has-text(Top livestream)
 www.reddit.com##.happening-now
 
+!Blackboard filter list, includes analytics sites because otherwise I wasn't getting credit for watching the videos.
 blackboard.com###course-list-course-_32898_1
 blackboard.com###course-card-term-name-
 blackboard.com###card__32898_1
 blackboard.com###course-list-course-_37017_1
 blackboard.com###card__37017_1
+
+@@||analytics.kaltura.com^
+@@||stats.kaltura.com^
+@@||79423.analytics.edgekey.net^
+@@||ma193-r.analytics.edgekey.net^
+!End Blackboard
+
 
 www.pcgamer.com##.jw-reset.jw-wrapper
 
