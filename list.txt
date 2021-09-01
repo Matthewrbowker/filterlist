@@ -1,6 +1,6 @@
 www.lcpdfr.com###_pgbw22ugc
 
-||www.texcom.com/members/Ads/*$image
+www.texcom.com/members/Ads/*$image
 
 www.reddit.com##.scrollerItem:has-text(Top livestream)
 www.reddit.com##.scrollerItem:has-text(Top broadcast right now)
