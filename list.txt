@@ -42,5 +42,6 @@ youtube.com###endpoint:has-text(Explore)
 youtube.com###endpoint:has-text(Shorts)
 www.youtube.com##ytd-guide-section-renderer.ytd-guide-renderer.style-scope:nth-of-type(3)
 www.youtube.com##ytd-rich-section-renderer.ytd-rich-grid-renderer.style-scope
+www.youtube.com###big-yoodle > .ytd-rich-grid-renderer.style-scope
 
 amazon.com##.a-carousel
