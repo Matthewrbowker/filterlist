@@ -67,3 +67,6 @@ m.youtube.com##ytm-single-column-watch-next-results-renderer ytm-video-with-cont
 
 
 amazon.com##.a-carousel
+
+! Dec 11, 2024 https://www.youtube.com
+www.youtube.com##.ytd-watch-flexy.style-scope > .ytd-expandable-metadata-renderer.style-scope
